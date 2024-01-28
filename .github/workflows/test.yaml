@@ -26,7 +26,7 @@ jobs:
       #   run: dotnet test --no-build
 
       - name: Run tests and coverage
-        run: dotnet test --settings JsonMask.NET.ApsNetCore.Mvc.Controller.Filter.Tests/code-coverage.runsettings
+        run: dotnet test --settings JsonMask.NET.AspNetCore.Mvc.Controller.Filter.Tests/code-coverage.runsettings
       
       - name: Upload coverage reports to Codecov
         uses: codecov/codecov-action@v3
