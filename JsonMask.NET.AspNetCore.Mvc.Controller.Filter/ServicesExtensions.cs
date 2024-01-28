@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace JsonMask.NET.ApsNetCore.Mvc.Controller.Filter
+namespace JsonMask.NET.AspNetCore.Mvc.Controller.Filter
 {
   public static class ServicesExtensions
 

@@ -1,8 +1,8 @@
 
-# JsonMask.NET.ApsNetCore.Mvc.Controller.Filter
+# JsonMask.NET.AspNetCore.Mvc.Controller.Filter
 
-[![Build Status](https://github.com/sidec15/JsonMask.NET.ApsNetCore.Mvc.Controller.Filter/actions/workflows/test.yaml/badge.svg)](https://github.com/sidec15/JsonMask.NET.ApsNetCore.Mvc.Controller.Filter/actions/workflows/test.yaml)
-[![codecov](https://codecov.io/gh/sidec15/JsonMask.NET.ApsNetCore.Mvc.Controller.Filter/graph/badge.svg)](https://codecov.io/gh/sidec15/JsonMask.NET.ApsNetCore.Mvc.Controller.Filter)
+[![Build Status](https://github.com/sidec15/JsonMask.NET.AspNetCore.Mvc.Controller.Filter/actions/workflows/test.yaml/badge.svg)](https://github.com/sidec15/JsonMask.NET.AspNetCore.Mvc.Controller.Filter/actions/workflows/test.yaml)
+[![codecov](https://codecov.io/gh/sidec15/JsonMask.NET.AspNetCore.Mvc.Controller.Filter/graph/badge.svg)](https://codecov.io/gh/sidec15/JsonMask.NET.AspNetCore.Mvc.Controller.Filter)
 
 This ASP.NET Core MVC filter empowers developers to selectively retrieve specific JSON elements from a resource's response. Built on the robust capabilities of [JsonMask.NET](https://github.com/sidec15/JsonMask.NET), this library offers a streamlined and efficient approach to manipulating JSON responses. By leveraging query parameters, developers can easily tailor the JSON output, ensuring that clients receive only the data they need. This not only enhances the flexibility of API responses but also optimizes data transfer and processing, making it an ideal solution for scenarios where bandwidth and processing efficiency are crucial.
 
@@ -21,10 +21,10 @@ This ASP.NET Core MVC filter empowers developers to selectively retrieve specifi
 
 ### Installation
 
-Install `JsonMask.NET.ApsNetCore.Mvc.Controller.Filter` via NuGet:
+Install `JsonMask.NET.AspNetCore.Mvc.Controller.Filter` via NuGet:
 
 ```sh
-Install-Package JsonMask.NET.ApsNetCore.Mvc.Controller.Filter -Version [Version]
+Install-Package JsonMask.NET.AspNetCore.Mvc.Controller.Filter -Version [Version]
 ```
 
 Replace `[Version]` with the desired version number.
@@ -82,7 +82,7 @@ For more detailed information on usage and syntax, please refer to the [JsonMask
 
 ## Contributing
 
-Contributions to `JsonMask.NET.ApsNetCore.Mvc.Controller.Filter` are welcome. Please read our [contributing guidelines](CONTRIBUTING.md) for details on submitting pull requests.
+Contributions to `JsonMask.NET.AspNetCore.Mvc.Controller.Filter` are welcome. Please read our [contributing guidelines](CONTRIBUTING.md) for details on submitting pull requests.
 
 ## License
 

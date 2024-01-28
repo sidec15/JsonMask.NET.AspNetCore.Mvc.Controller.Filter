@@ -18,11 +18,11 @@
     <PackageReference Include="coverlet.collector" Version="3.2.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\JsonMask.NET.ApsNetCore.Mvc.Controller.Filter\JsonMask.NET.ApsNetCore.Mvc.Controller.Filter.csproj" />
-  </ItemGroup>
-
     <ItemGroup>
         <AssemblyAttribute Include="System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\JsonMask.NET.AspNetCore.Mvc.Controller.Filter\JsonMask.NET.AspNetCore.Mvc.Controller.Filter.csproj" />
     </ItemGroup>
 </Project>

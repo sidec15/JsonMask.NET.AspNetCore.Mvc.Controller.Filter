@@ -1,6 +1,6 @@
 ## Contributing
 
-We welcome contributions to JsonMask.NET.ApsNetCore.Mvc.Controller.Filter! Whether it's fixing bugs, adding new features, or improving documentation, here's how you can contribute:
+We welcome contributions to JsonMask.NET.AspNetCore.Mvc.Controller.Filter! Whether it's fixing bugs, adding new features, or improving documentation, here's how you can contribute:
 
 1. **Fork the Repository**: Start by forking the repository to your own GitHub account.
 

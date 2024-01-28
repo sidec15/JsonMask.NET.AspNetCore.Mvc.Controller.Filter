@@ -1,9 +1,9 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
+using NUnit.Framework;
 
-namespace JsonMask.NET.ApsNetCore.Mvc.Controller.Filter.Tests
+namespace JsonMask.NET.AspNetCore.Mvc.Controller.Filter.Tests
 {
   [TestFixture]
   public class ServiceExtensionsTests
